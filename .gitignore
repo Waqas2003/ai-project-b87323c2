@@ -1,0 +1,4 @@
+node_modules
+```
+
+This is a basic implementation of the snake game using React. The game is rendered as a 40x40 grid, and the snake is represented as a series of connected cells. The user can control the snake using the arrow keys, and the game will automatically move the snake and check for collisions and food. The score is displayed at the top of the page.
